@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e7/7a/1e/e77a1e25a95370f4f625c115f1622378.gif"  />
+  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fes%2Flottie-animations%2Fprogramador&psig=AOvVaw1kb4ed0aY7NH1EBx8aY8HB&ust=1737712549064000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLieqPLJi4sDFQAAAAAdAAAAABAE"  />
 </div>
 
 ###
