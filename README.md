@@ -1,7 +1,7 @@
 ## Hello! My name is Marta 👋
 
 <p align="left">𝗦𝗼𝗯𝗿𝗲 𝗺𝗶...<br><br>Soy estudiante de informatica, en posesion del titulo de "Sistemas microinformaticos y redes", y actualmente formandome en desarrollo de aplicaciones web.</p>
-<h2 align="left">𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔 𝒅𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄𝒊ó𝒏 𝒒𝒖𝒆 𝒎𝒂𝒏𝒆𝒋𝒐 / 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 ​​𝑰 𝒉𝒂𝒏𝒅𝒍𝒆</h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
