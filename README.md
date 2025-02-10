@@ -17,6 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+<br>
 <a href="https://www.canva.com/design/DAGFSnOkHXw/h2U5IBwHwLKlarRQ-5CQGA/edit?utm_content=DAGFSnOkHXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver curriculum</a>
 <br>
 <div align="center">
